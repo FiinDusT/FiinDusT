@@ -1,9 +1,8 @@
 ## Bem-vindo(a) ao perfil de Marcos Víctor 😁
 
  <div>
-   <a href="https://github.com/FiinDusT
-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FiinDusT&show_icons=true&theme=tokyonightt&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/FiinDusT">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FiinDusT&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiinDusT&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -15,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Me seguem nas redes abaixo!
  
 <div> 
  
